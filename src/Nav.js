@@ -30,7 +30,7 @@ const Nav = () => {
         <img
           onClick={() => history.push("/profile")}
           className="nav_avatar"
-          src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Fsmiley-face-3%2F48%2F2-512.png&f=1&nofb=1"
+          src="https://pbs.twimg.com/profile_images/1240119990411550720/hBEe3tdn_400x400.png"
           alt=""
         />
       </div>
